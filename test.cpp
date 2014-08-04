@@ -272,7 +272,7 @@ long int unsigned power(int a, int b) // we return a^b
 		return a * power(a, b - 1);
 	}
 }
-// function that returns the number of digits
+// function that returns the number of digits of an integer
 int numberOfDigits(long int unsigned n, int i) //is the counter index, i = 1
 {
 	if (n / power(10, i) == 0)
