@@ -1,0 +1,1 @@
+Find a five-digit number, all digits distinct and non-zero, such that that number is equal to the sum of all three-digit numbers that can be made with the digits of that number. 
