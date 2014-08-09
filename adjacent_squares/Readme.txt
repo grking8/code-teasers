@@ -1,0 +1,1 @@
+Arrange the integers 1-17 (inclusive) so that each adjacent pair of numbers is a perfect square. e.g. 14, 2, 7 … (The first and last do not have to wrap around)
